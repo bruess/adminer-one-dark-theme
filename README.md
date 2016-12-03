@@ -1,0 +1,1 @@
+# adminer-dark-theme
