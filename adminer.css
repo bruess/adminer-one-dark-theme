@@ -10,8 +10,15 @@
         box-sizing: border-box !important;
     }
 
+    html {
+        overflow: hidden;
+        height: 100%;
+    }
+
     body {
         background: #282C34 !important;
+        height: 100%;
+        overflow: auto;
     }
 }
 
